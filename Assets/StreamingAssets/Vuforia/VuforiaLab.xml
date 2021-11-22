@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="HelloQRInverted" size="0.200000 0.200000" />
+    <ImageTarget name="Globe" size="0.200000 0.200000" />
+    <ImageTarget name="wallhaven-42ppem" size="0.200000 0.133429" />
+    <ImageTarget name="N64-Logo-greyscale" size="0.150000 0.147069" />
+    <ImageTarget name="N64-Logo-931x620" size="0.150000 0.147069" />
+    <ImageTarget name="HelloQR" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
